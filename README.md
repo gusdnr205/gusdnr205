@@ -1,6 +1,5 @@
 ### Hi there im hyun 👋
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusdnr205&show_icons=true&theme=radical)
-  [![trophy](https://github-profile-trophy.vercel.app/?username=gusdnr205)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div > 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
