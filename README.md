@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there im hyun 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusdnr205&show_icons=true&theme=radical)
 <!--
